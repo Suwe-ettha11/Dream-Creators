@@ -1,0 +1,17 @@
+body{
+    background-color:#16033a;
+    color: aliceblue;
+}
+.img{
+    float: left;
+}
+.txt{
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+#footer{
+    background-color:#090216;
+}
